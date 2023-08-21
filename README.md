@@ -2,4 +2,5 @@
 
 效果图：
 
-![image](https://github.com/Chris-K2/magical_animal_classifier/assets/119746828/3cb9c27f-3ecb-465e-a67c-1eb3fea24f2a)
+![image](https://github.com/Chris-K2/magical-animal-classifier/assets/119746828/38fb6087-e56a-44af-bb8f-753be18e0ae8)
+
